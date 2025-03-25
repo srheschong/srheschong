@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm currently a MEM student at the Nicholas School of the Environment
-![frog](IMG_2482.jpg)
+<img src="IMG_2482.jpg" alt="frog" width="50%"/>
 <!--
 **srheschong/srheschong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
