@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm currently a MEM student at the Nicholas School of the Environment
-<img src="IMG_2482.jpg" alt="frog" width="50%"/>
+<img src="IMG_0229.jpg" alt="frog" width="50%"/>
+www.linkedin.com/in/summer-heschong-b845b0119
 <!--
 **srheschong/srheschong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
