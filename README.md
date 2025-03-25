@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm currently a MEM student at the Nicholas School of the Environment
-
+<br>
 www.linkedin.com/in/summer-heschong-b845b0119
+<br>
 <img src="IMG_0229.jpeg" alt="frog" width="50%"/>
 
 <!--
